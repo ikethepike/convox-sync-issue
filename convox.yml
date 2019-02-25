@@ -1,0 +1,7 @@
+services:
+  a:
+    build: a
+    port: 3000
+  b:
+    image: kennethreitz/httpbin
+    port: 80
