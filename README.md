@@ -19,7 +19,7 @@ In an attempt to verify that nothing was misconfigured we created this stripped 
 
 ## Sync issue observed on:
 
--[x] Macbook Pro 13" '15 Mac OS High Sierra  
--[x] Surface Book 2 Windows 10  
--[x] Surface Book 2 Ubuntu 18.04  
--[x] MacBook Pro 13" '14
+- [x] Macbook Pro 13" '15 Mac OS High Sierra
+- [x] Surface Book 2 Windows 10
+- [x] Surface Book 2 Ubuntu 18.04
+- [x] MacBook Pro 13" '14
